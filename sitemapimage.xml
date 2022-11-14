@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://deadyou2003.github.io/</loc>
+	<lastmod>2022-11-14T18:32:49+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://deadyou2003.github.io/index.html</loc>
+	<lastmod>2022-11-14T18:32:49+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/find-place1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/find-place2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/find-place3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/find-place4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/find-place5.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/featured1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/featured2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/featured3.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://deadyou2003.github.io/detail.html</loc>
+	<lastmod>2022-11-14T18:32:49+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/reserve-slide2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/reserve-slide1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/reserve-slide3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/customer-img1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/review-img1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/review-img2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/review-img3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/customer-img2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/map.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://deadyou2003.github.io/images/follow-img.jpg</image:loc>
+	</image:image>
+</url>
+</urlset>
