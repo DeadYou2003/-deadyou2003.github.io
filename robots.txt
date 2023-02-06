@@ -2,6 +2,7 @@
 
 User-agent: *
 Allow: /https://deadyou2003.github.io/
+Allow: /https://deadyou2003.github.io/detail.html
 Disallow: deadyou2003.github.io/images/
 Disallow: deadyou2003.github.io/admin/
 Sitemap: https://deadyou2003.github.io/sitemap.xml
